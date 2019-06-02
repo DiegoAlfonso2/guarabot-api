@@ -1,0 +1,7 @@
+{
+  "oferta": [
+    { "id": 1, "codigo": "7507", "nombre": "Algoritmos y Programacion III", "docente": "Carlos Fontela", "cupo": 100, "modalidad": "parciales" },
+    { "id": 2, "codigo": "7510", "nombre": "Tecnicas de Diseño", "docente": "Emilio Gutter", "cupo": 10, "modalidad": "tareas" },
+    { "id": 2, "codigo": "7114", "nombre": "Modelos y Optimización I", "docente": "Silvia Ramos", "cupo": 50, "modalidad": "coloquio" }
+  ]
+}
